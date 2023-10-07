@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.ol{
+	list-style-type:none;
+}
+li>a>img{
+	width:300px;
+	height:200px;
+}
